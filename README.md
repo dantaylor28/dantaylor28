@@ -1,5 +1,11 @@
 ![banner_image](readme_banner.png)
 
+<p align="center">
+  <img src="https://badges.pufler.dev/commits/yearly/dantaylor28?style=for-the-badge&logo=appveyor&logoColor=44cc11"/>
+  <img src="https://badges.pufler.dev/repos/dantaylor28?style=for-the-badge&logo=appveyor&logoColor=44cc11"/>
+  <img src="https://badges.pufler.dev/years/dantaylor28?style=for-the-badge&logo=appveyor&logoColor=44cc11"/>
+</p>
+
 <!--
 **dantaylor28/dantaylor28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
