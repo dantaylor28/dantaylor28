@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner_image](readme_banner.png)
 
 <!--
 **dantaylor28/dantaylor28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
