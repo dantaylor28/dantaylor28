@@ -59,6 +59,11 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
   </div>
 </div>
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dantaylor28&theme=gruvbox"/>
+</div>
 
 
 
