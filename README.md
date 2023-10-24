@@ -43,10 +43,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </div>
-</div>
-<br>
-
-<div align="center">
+  <br>
   <h2>Tools I Use</h2>
   <div>
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
@@ -59,7 +56,7 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
   </div>
 </div>
-<br><br>
+<br>
 <h2></h2>
 
 <div align="center">
