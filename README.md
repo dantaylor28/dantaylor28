@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <h2>Languages & Frameworks</h2>
+  <h2>Languages & Frameworks :man_technologist:</h2>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </div>
   <br>
-  <h2>Tools I Use</h2>
+  <h2>Tools I Use :gear:</h2>
   <div>
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <h2>Currently Learning</h2>
+  <h2>Currently Learning :memo:</h2>
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 </div>
