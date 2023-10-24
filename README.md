@@ -57,8 +57,14 @@
   </div>
 </div>
 <br>
-<h2></h2>
 
+<div>
+  <h2>Currently Learning</h2>
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+</div>
+
+<h2></h2>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dantaylor28&theme=gruvbox"/>
 </div>
