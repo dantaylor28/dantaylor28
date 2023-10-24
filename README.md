@@ -14,7 +14,8 @@
 
 <br>
 <p align="center">
-    I'm a passionate 30 year old Software Developer from the UK currently living in Gothenburg, Sweden. I have knowledge in a variety of front and backend programming languages, having recently completed a Full Stack Developer course with Code Institute. I am always striving to learn new things, whether that is working with an innovative piece of tech or trying out a new food recipe. I have a background in various customer service roles and right now I am looking to expand my knowledge and start working within the tech industry which I know is where my passion truly lies.
+    I'm a passionate 30 year old Software Developer from the UK currently living in Gothenburg, Sweden :sweden:  I have knowledge in a variety of front and backend programming languages, having recently completed a Full Stack Developer course with Code Institute. I am always striving to learn new things, whether that is working with an innovative piece of tech or trying out a new food recipe. 
+<!-- I have a background in various customer service roles and right now I am looking to expand my knowledge and start working within the tech industry which I know is where my passion truly lies. -->
 </p>
 <p align="center">
   <img src="https://badges.pufler.dev/commits/yearly/dantaylor28?style=for-the-badge&logo=appveyor&logoColor=44cc11" alt="commits"/> &nbsp;
