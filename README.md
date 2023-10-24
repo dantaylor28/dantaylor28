@@ -60,9 +60,16 @@
   </div>
 </div>
 <br><br>
+<h2></h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dantaylor28&theme=gruvbox"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dantaylor28&theme=gruvbox"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaylor28&theme=gruvbox"/> &nbsp &nbsp &nbsp
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dantaylor28&theme=gruvbox"/>
 </div>
 
 
