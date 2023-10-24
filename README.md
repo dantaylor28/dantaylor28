@@ -58,7 +58,7 @@
 </div>
 <br>
 
-<div>
+<div align="center">
   <h2>Currently Learning</h2>
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
@@ -72,7 +72,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantaylor28&theme=gruvbox"/> &nbsp &nbsp &nbsp
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dantaylor28&theme=gruvbox"/>
+  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" height="284px" width="447px"/>
 </div>
 
 
