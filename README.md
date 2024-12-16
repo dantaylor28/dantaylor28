@@ -10,7 +10,7 @@
   <a href="mailto:dan.taylor1493@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> &nbsp;
-  <a href="https://dantaylor.social">
+  <a href="https://dan-m-taylor.com">
     <img src="https://img.shields.io/badge/Portfolio Site-0077B5?style=for-the-badge&color=darkgreen&logoColor=white"/>
   </a> 
 </div>
